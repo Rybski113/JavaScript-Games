@@ -14,3 +14,8 @@ Trying To Learn JavaScript by building 7 retro games. - Still doing
    - [Demo](https://rybski113.github.io/Memory-Game-JavaScript/)
    - [Source Code](https://github.com/Rybski113/Memory-Game-JavaScript)
 ##  
+---
+## 3. Whac-a-Mole
+   - [Demo](https://rybski113.github.io/Whac-a-Mole-JavaScript/)
+   - [Source Code](https://github.com/Rybski113/Whac-a-Mole-JavaScript)
+##  
