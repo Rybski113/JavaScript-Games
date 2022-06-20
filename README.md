@@ -1,5 +1,5 @@
 # JavaScript-Games
-Trying To Learn JavaScript by building 7 retro games. - Still doing
+Trying To Learn JavaScript by building  retro games. - Still doing
 
 
 
