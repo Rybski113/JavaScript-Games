@@ -5,9 +5,9 @@ Trying To Learn JavaScript by building  retro games. - Still doing
 
 
 ---
-## 1. Rock, Paper, Scissors
-   - [Demo](https://rybski113.github.io/Rock-Paper-Scissors-JavaScript/)
-   - [Source Code](https://github.com/Rybski113/Rock-Paper-Scissors-JavaScript)
+## 1. T-Rex Run
+   - [Demo](https://rybski113.github.io/T-Rex-Run-JS/)
+   - [Source Code](https://github.com/Rybski113/T-Rex-Run-JS)
 ##  
 ---
 ## 2. Memory Game
