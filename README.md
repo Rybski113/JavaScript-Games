@@ -24,3 +24,7 @@ Trying To Learn JavaScript by building  retro games. - Still doing
    - [Demo](https://rybski113.github.io/Space-Invaders/)
    - [Source Code](https://github.com/Rybski113/Space-Invaders)
 ##  
+## 5. 2048
+   - [Demo](https://rybski113.github.io/2048-/)
+   - [Source Code](https://github.com/Rybski113/2048-)
+##  
