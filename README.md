@@ -28,3 +28,7 @@ Trying To Learn JavaScript by building  retro games. - Still doing
    - [Demo](https://rybski113.github.io/2048-/)
    - [Source Code](https://github.com/Rybski113/2048-)
 ##  
+## 6. PACMAN
+   - [Demo]()
+   - [Source Code](https://github.com/Rybski113/PACMAN)
+##  
