@@ -1,5 +1,5 @@
 # JavaScript-Games
-Trying To Learn JavaScript by building  retro games. - Still doing
+Learned JavaScript by building  retro games. - Still doing
 
 
 
@@ -29,6 +29,10 @@ Trying To Learn JavaScript by building  retro games. - Still doing
    - [Source Code](https://github.com/Rybski113/2048-)
 ##  
 ## 6. PACMAN
-   - [Demo]()
+   - [Demo](https://rybski113.github.io/PACMAN/)
    - [Source Code](https://github.com/Rybski113/PACMAN)
+##  
+## 7. TETRIS
+   - [Demo](https://rybski113.github.io/Tetris/)
+   - [Source Code](https://github.com/Rybski113/Tetris)
 ##  
