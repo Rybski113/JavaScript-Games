@@ -20,9 +20,9 @@ Learned JavaScript by building  retro games. - Still doing
    - [Source Code](https://github.com/Rybski113/Whac-a-Mole-JavaScript)
 ##  
 ---
-## 4. Space Invaders
-   - [Demo](https://rybski113.github.io/Space-Invaders/)
-   - [Source Code](https://github.com/Rybski113/Space-Invaders)
+## 4. Space Shooter
+   - [Demo](https://rybski113.github.io/Space-Shooter/)
+   - [Source Code](https://github.com/Rybski113/Space-Shooter)
 ##  
 ## 5. 2048
    - [Demo](https://rybski113.github.io/2048-/)
